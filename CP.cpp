@@ -1,4 +1,3 @@
-
 #include<iostream>
 #include<fstream>
 #include<bitset> 
@@ -252,8 +251,11 @@ void dfs(int u) {          // DFS for normal usage: as graph traversal algorithm
 //===================================================================================================================================================
 // Your Code starts here
 int main(){
-
-         
+    
+    ios_base::sync_with_stdio(false);
+    cin.tie(nullptr);
+    
+    
 
 return 0;
 }
